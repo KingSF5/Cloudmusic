@@ -18,9 +18,9 @@ public class Main {
         String pathOne  = sc.nextLine();
         System.out.println("请输入输出文件夹路径：");
         String pathTwo = sc.nextLine();
-        GetFile file = new GetFile();
-        int len = file.getFile(pathOne).size();
-        ArrayList<String> list = file.getFile(pathOne);
+        GetFile fileTmp = new GetFile();
+        int len = fileTmp.getFile(pathOne).size();
+        ArrayList<String> list = fileTmp.getFile(pathOne);
         for(int i = 0;i < len;i = i+2) {
             GetInfo info = new GetInfo(new Id().getIdTwo(pathOne + "\\" + list.get(i)));
             List<String> INFO = info.getInfo();

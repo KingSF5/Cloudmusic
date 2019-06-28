@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../java库/jaudiotagger-2.2.6-SNAPSHOT/jaudiotagger-2.2.6-SNAPSHOT.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jaudiotagger-2.2.6-SNAPSHOT.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
