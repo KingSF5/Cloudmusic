@@ -21,4 +21,4 @@ java main
 
 ## 运行截图
 
-![avatar](/img/运行截图.PNG)
+![avatar](img/运行截图.PNG)
