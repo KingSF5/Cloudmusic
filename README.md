@@ -21,4 +21,4 @@ java main
 
 ## 运行截图
 
-![avatar](img/运行截图.PNG)
+![avatar](https://raw.githubusercontent.com/KingSF5/Cloudmusic/master/img/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.PNG)
